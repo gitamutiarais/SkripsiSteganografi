@@ -1,5 +1,7 @@
 # SkripsiSteganografi
 
+Aplikasi ini merupakan aplikasi pengamanan data digital berbasis android dengan menerapkan Algoritma Rivest Code 6 dan metode Least Significant Bit (LSB).
+
 ## App View
 ![Screenshot_20200827-083513_Pesan Rahasia](https://user-images.githubusercontent.com/49817493/193439390-f1be1433-5895-4ba2-af7f-33e064176e39.jpg)
 
